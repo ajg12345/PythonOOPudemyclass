@@ -1,3 +1,4 @@
+#!/home/aaron4udemy/anaconda3/envs/udem/bin/python
 class PreciousStone:
     numberOfPreciousStones = 0
     preciousStoneCollection = []
